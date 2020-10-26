@@ -26,4 +26,4 @@
 <br></br>
 <br></br>
 
-<p>&nbsp;<img align="center" src="https:///github-readme-stats.manavkanpariya.vercel.app/api?username=manavkanpariya&show_icons=true&locale=en&count_private=true&hide=issues,contribs" alt="manavkanpariya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.manavkanpariya.vercel.app/api?username=manavkanpariya&show_icons=true&locale=en&count_private=true&hide=issues,contribs" alt="manavkanpariya" /></p>

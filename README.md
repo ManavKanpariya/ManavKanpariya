@@ -21,9 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavkanpariya&show_icons=true&locale=en&layout=compact" alt="manavkanpariya" /></p>
 
-<br />
-<br />
-<br />
-<br />
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavkanpariya&show_icons=true&locale=en&count_private=true&hide=issues,contribs" alt="manavkanpariya" /></p>

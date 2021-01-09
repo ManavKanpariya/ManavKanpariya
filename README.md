@@ -4,7 +4,7 @@
 ##  I'm Student, Developer, and Freelancer!
 - 👯 I’m looking to collaborate with other Flutter Mobile App Developers
 - 🌱 I’m currently learning everything 🤣
-- 👨‍💻 2020 Goals: Contribute more to Open Source projects
+- 👨‍💻 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm crazy for deep dive in to new  technology
 
 

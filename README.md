@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=ManavKanpariya&margin-w=5&margin-h=5&column=7" alt="ManavKanpariya" /></a> </p>
+<!-- <p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=ManavKanpariya&margin-w=5&margin-h=5&column=7" alt="ManavKanpariya" /></a> </p> -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **Every Flutter App**

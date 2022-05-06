@@ -1,12 +1,11 @@
 <h1 align="center">Hello Hackers 👋, I'm Manav Kanpariya</h1>
-<!-- ![Hi, I'm Divyarajsinh 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Flutter ❤️] -->
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Flutter%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
-<!-- <p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=ManavKanpariya&margin-w=5&margin-h=5&column=7" alt="ManavKanpariya" /></a> </p> -->
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **Every Flutter App**
@@ -17,7 +16,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **manavkanapariya@gmail.com**
+- 📫 How to reach me **manavp3889@gmail.com**
 
 - ⚡ Fun fact **I think i am crazy....**
 
@@ -38,7 +37,6 @@
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -49,8 +47,6 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a ><img alt="ManavKanpariya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManavKanpariya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
   
